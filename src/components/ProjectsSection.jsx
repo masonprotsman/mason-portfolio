@@ -5,7 +5,7 @@ const projects = [
         id: 1,
         title: "International Weather App",
         description: "A beautifully designed weather application with real-time live data, global search capabilities, and location-based features for a seamless user experience.",
-        image: "/projects/project_1.png",
+        image: "https://masonprotsman.github.io/mason-portfolio/projects/project_1.png",
         tags: ["React", "TailwindCSS", "Typescript"],
         demoUrl: "https://masonprotsman.github.io/Weather-Forecast-Pro/",
         githubUrl: "https://github.com/masonprotsman/Weather-Forecast-Pro",
@@ -15,7 +15,7 @@ const projects = [
         title: "Real Estate Website",
         description:
             "A high-end real estate website featuring stunning visuals and fully automated contact submission, designed to capture leads seamlessly and elevate the client experience.",
-        image: "/projects/project_2.png",
+        image: "https://masonprotsman.github.io/mason-portfolio/projects/project_2.png",
         tags: ["React", "TailwindCSS", "JavaScript"],
         demoUrl: "https://masonprotsman.github.io/react-real-estate/",
         githubUrl: "https://github.com/masonprotsman/react-real-estate",
@@ -25,7 +25,7 @@ const projects = [
         title: "Movie Search App",
         description:
             "A dynamic, real-time movie discovery platform featuring live data integration from The Movie Database (TMDb) and personalized favorites management for a seamless user experience.",
-        image: "/projects/project_3.png",
+        image: "https://masonprotsman.github.io/mason-portfolio/projects/project_3.png",
         tags: ["React", "Typescript"],
         demoUrl: "https://masonprotsman.github.io/Movie-Search-Project/",
         githubUrl: "https://github.com/masonprotsman/Movie-Search-Project",
