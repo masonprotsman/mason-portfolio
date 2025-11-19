@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter>
+  <BrowserRouter basename="/mason-portfolio">
         <Routes>
           <Route index element={<Home />} />
           {/* <Route path="*" element={<NotFound />} /> */}
