@@ -1,35 +1,45 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 
 const projects = [
-    {
-        id: 1,
-        title: "International Weather App",
-        description: "A beautifully designed weather application with real-time live data, global search capabilities, and location-based features for a seamless user experience.",
-        image: "https://masonprotsman.github.io/mason-portfolio/projects/project_1.png",
-        tags: ["React", "TailwindCSS", "Typescript"],
-        demoUrl: "https://masonprotsman.github.io/Weather-Forecast-Pro/",
-        githubUrl: "https://github.com/masonprotsman/Weather-Forecast-Pro",
-    },
-    {
-        id: 2,
-        title: "Real Estate Website",
-        description:
-            "A high-end real estate website featuring stunning visuals and fully automated contact submission, designed to capture leads seamlessly and elevate the client experience.",
-        image: "https://masonprotsman.github.io/mason-portfolio/projects/project_2.png",
-        tags: ["React", "TailwindCSS", "JavaScript"],
-        demoUrl: "https://masonprotsman.github.io/react-real-estate/",
-        githubUrl: "https://github.com/masonprotsman/react-real-estate",
-    },
-    {
-        id: 3,
-        title: "Movie Search App",
-        description:
-            "A dynamic, real-time movie discovery platform featuring live data integration from The Movie Database (TMDb) and personalized favorites management for a seamless user experience.",
-        image: "https://masonprotsman.github.io/mason-portfolio/projects/project_3.png",
-        tags: ["React", "Typescript"],
-        demoUrl: "https://masonprotsman.github.io/Movie-Search-Project/",
-        githubUrl: "https://github.com/masonprotsman/Movie-Search-Project",
-    },
+  {
+    id: 1,
+    title: "International Weather App",
+    description: "A beautifully designed weather application with real-time live data, global search capabilities, and location-based features for a seamless user experience.",
+    image: "https://masonprotsman.github.io/mason-portfolio/projects/project_1.png",
+    tags: ["React", "TailwindCSS", "Typescript"],
+    demoUrl: "https://masonprotsman.github.io/Weather-Forecast-Pro/",
+    githubUrl: "https://github.com/masonprotsman/Weather-Forecast-Pro",
+  },
+  {
+    id: 2,
+    title: "Restaurant Website",
+    description:
+      "A modern, responsive restaurant website featuring an elegant design, intuitive navigation, and seamless online reservation functionality to enhance the dining experience.",
+    image: "https://masonprotsman.github.io/mason-portfolio/projects/project_4.png",
+    tags: ["React", "TailwindCSS", "JavaScript"],
+    demoUrl: "https://masonprotsman.github.io/restaurant-website/",
+    githubUrl: "https://github.com/masonprotsman/restaurant-website",
+  },
+  {
+    id: 3,
+    title: "Real Estate Website",
+    description:
+      "A high-end real estate website featuring stunning visuals and fully automated contact submission, designed to capture leads seamlessly and elevate the client experience.",
+    image: "https://masonprotsman.github.io/mason-portfolio/projects/project_2.png",
+    tags: ["React", "TailwindCSS", "JavaScript"],
+    demoUrl: "https://masonprotsman.github.io/react-real-estate/",
+    githubUrl: "https://github.com/masonprotsman/react-real-estate",
+  },
+  {
+    id: 4,
+    title: "Movie Search App",
+    description:
+      "A dynamic, real-time movie discovery platform featuring live data integration from The Movie Database (TMDb) and personalized favorites management for a seamless user experience.",
+    image: "https://masonprotsman.github.io/mason-portfolio/projects/project_3.png",
+    tags: ["React", "Typescript"],
+    demoUrl: "https://masonprotsman.github.io/Movie-Search-Project/",
+    githubUrl: "https://github.com/masonprotsman/Movie-Search-Project",
+  },
 ];
 
 export const ProjectsSection = () => {
