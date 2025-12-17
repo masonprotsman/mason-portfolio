@@ -1,6 +1,15 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 
 const projects = [
+    {
+    id: 0,
+    title: "HyperCode AI",
+    description: "AI-powered coding application that streamlines development through intelligent code generation and real-time assistance. Built to boost productivity and innovation.",
+    image: "https://masonprotsman.github.io/mason-portfolio/projects/project_0.png",
+    tags: ["React", "TailwindCSS", "Typescript"],
+    demoUrl: "https://masonprotsman.github.io/Ecommerce-App/",
+    githubUrl: "https://github.com/masonprotsman/Ecommerce-App",
+  },
   {
     id: 1,
     title: "International Weather App",
